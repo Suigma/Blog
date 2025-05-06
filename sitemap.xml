@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/posts/bash/</loc>
+    <lastmod>2025-05-06T18:35:27+07:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-05-06T18:35:27+07:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-05-06T18:35:27+07:00</lastmod>
+  </url><url>
+    <loc>/posts/screen-state/</loc>
+    <lastmod>2025-05-06T17:57:50+07:00</lastmod>
+  </url><url>
+    <loc>/posts/materi-ipas/</loc>
+    <lastmod>2025-04-06T18:15:06+07:00</lastmod>
+  </url><url>
+    <loc>/posts/introduction/</loc>
+    <lastmod>2024-05-03T17:24:25+07:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
