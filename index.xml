@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes</title>
-    <link>/</link>
+    <link>https://suigma.github.io/Blog/</link>
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 May 2025 18:35:27 +0700</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://suigma.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bash</title>
-      <link>/posts/bash/</link>
+      <link>https://suigma.github.io/Blog/posts/bash/</link>
       <pubDate>Tue, 06 May 2025 18:35:27 +0700</pubDate>
-      <guid>/posts/bash/</guid>
+      <guid>https://suigma.github.io/Blog/posts/bash/</guid>
       <description>Bash Cheatsheet Navigation:&#xA;pwd: Print working directory. cd &amp;lt;directory&amp;gt;: Change directory. cd ..: Go to parent directory. cd ~: Go to home directory. cd -: Go to previous directory. ls: List directory contents. ls -l: Long listing (details). ls -a: Show hidden files. ls -lh: Human-readable sizes. mkdir &amp;lt;directory&amp;gt;: Create a directory. rmdir &amp;lt;directory&amp;gt;: Remove an empty directory. rm &amp;lt;file&amp;gt;: Remove a file. rm -r &amp;lt;directory&amp;gt;: Remove a directory recursively (use with caution!</description>
     </item>
     <item>
       <title>Screen State</title>
-      <link>/posts/screen-state/</link>
+      <link>https://suigma.github.io/Blog/posts/screen-state/</link>
       <pubDate>Tue, 06 May 2025 17:57:50 +0700</pubDate>
-      <guid>/posts/screen-state/</guid>
+      <guid>https://suigma.github.io/Blog/posts/screen-state/</guid>
       <description>Mekanisme API State Screen pada Android 📱 Android memiliki banyak fitur dan API yang memudahkan pengembangan aplikasi, dan salah satunya adalah pengelolaan state screen. Ini adalah mekanisme yang digunakan untuk mengelola bagaimana aplikasi berinteraksi dengan layar dan respons terhadap perubahan dalam status layar, seperti rotasi, perubahan orientasi, atau ketika layar dihidupkan kembali setelah pengguna berinteraksi dengan aplikasi.&#xA;Apa Itu Screen State di Android? Screen state atau status layar merujuk pada kondisi atau status tampilan layar yang dapat berubah tergantung pada interaksi pengguna atau sistem.</description>
     </item>
     <item>
       <title>Materi IPAS</title>
-      <link>/posts/materi-ipas/</link>
+      <link>https://suigma.github.io/Blog/posts/materi-ipas/</link>
       <pubDate>Sun, 06 Apr 2025 18:15:06 +0700</pubDate>
-      <guid>/posts/materi-ipas/</guid>
+      <guid>https://suigma.github.io/Blog/posts/materi-ipas/</guid>
       <description>Kisi-Kisi IPAS 1. Pernapasan pada Manusia Pernapasan pada manusia terdiri dari proses menghirup oksigen (inspirasi) dan mengeluarkan karbon dioksida (ekspirasi). Sistem pernapasan manusia meliputi:&#xA;Jenis Pernapasan Proses Pernapasan 2. Pernapasan pada Hewan Pernapasan pada hewan bervariasi tergantung pada jenis dan lingkungan hidupnya:&#xA;Setiap jenis hewan memiliki adaptasi unik dalam sistem pernapasan sesuai habitatnya.&#xA;3. Cara Perkembangbiakan pada Hewan Hidung : Menyaring, melembabkan, dan menghangatkan udara. Faring : Saluran udara menuju trakea.</description>
     </item>
     <item>
       <title>About</title>
-      <link>/posts/introduction/</link>
+      <link>https://suigma.github.io/Blog/posts/introduction/</link>
       <pubDate>Fri, 03 May 2024 17:24:25 +0700</pubDate>
-      <guid>/posts/introduction/</guid>
+      <guid>https://suigma.github.io/Blog/posts/introduction/</guid>
       <description>About Blog santai seputar hal :&#xA;Bypass DPI Android &amp;amp; Xposed website &amp;amp; terminal app Linux </description>
     </item>
   </channel>
